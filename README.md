@@ -26,7 +26,5 @@
       <button id="0" class="btn-large btn-primary">0</button>
       <button id="total" class="btn-large btn-primary">=</button>
     </div>
-    <font size="3" color="red">This is some text!</font>
-<font size="2" color="blue">This is some text!</font>
-<font face="verdana" color="green">This is some text!</font>
+    <font size="3" color="red">This is assignment for SPM!</font>
 </html>
